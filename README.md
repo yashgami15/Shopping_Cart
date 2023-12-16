@@ -11,7 +11,6 @@ One of the best functionalities that the projects include is mailing the custome
 Sometimes, if the user tries to add any item that is out of stock, then they will get an email once the item is available again the stock.
 
 ## Highlights :--
-
 # The users will get a mail to their registered mail ID during:-
 - New User Registration
 - Order Successfully Placed
