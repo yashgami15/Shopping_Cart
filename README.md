@@ -1,4 +1,4 @@
-# Online Shopping Cart (E-Commerce Website)
+![1](https://github.com/yashgami15/Shopping_Cart/assets/68898078/36f6ef3c-4c12-4af8-a18a-5e2058361535)# Online Shopping Cart (E-Commerce Website)
 This is an E-Commerce Website built for selling electronics products online.
 
 # About
@@ -32,3 +32,8 @@ Sometimes, if the user tries to add any item that is out of stock, then they wil
 
 3. Database:
 - MySql
+
+# Some Screenshots for the project:
+
+• Home Page
+![1](https://github.com/yashgami15/Shopping_Cart/assets/68898078/52467d0a-7e20-403f-9f59-1c2aa286dfca)
